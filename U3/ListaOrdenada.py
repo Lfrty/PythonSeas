@@ -6,7 +6,6 @@ listaOrd = []
 listaDesord = []
 numActual = 0 # Numero a leer
 numTotal = 0 # Total de números a introducir
-res = ""
 
 numTotal = int(input("¿Cuántos números introducirás?: "))
 
