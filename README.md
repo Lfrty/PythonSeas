@@ -1,2 +1,2 @@
 # PythonSeas
-Proyecto con Ejercicios guiados para practicar esta maravilla de código sucio
+Proyecto con Ejercicios guiados para practicar Python
